@@ -1,3 +1,3 @@
 # CanSat 🛰
 
-🚀 This is a respiratory where I will upload codes for the CanSat.
+🚀 This is a respiratory in which I will upload codes for the CanSat.
