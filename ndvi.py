@@ -1,3 +1,5 @@
+#A code for calculating NDVI
+
 import cv2
 import numpy as np
 
