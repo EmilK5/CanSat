@@ -1,7 +1,7 @@
 # CanSat 🛰
 
-The mission of my CanSat is to determine whether the place of its landing is suitable for life and growth of plants. For this purpose the probe takes pictures of the Earth's surface, based on which it calculates plant vegetation indices and takes readings from weather sensors.
-
+The mission of my CanSat is to determine whether the area of its landing is suitable for life and growth of plants by calculating various
+remote sensing indices and getting readings from weather sensors. During the descent on a parachute, the sonde took images of the landing site using an IR camera and took measurements from temperature, pressure, humidity and illuminance sensor. All results were saved on an SD card that was inside the sonde. In the post-flight analysis, a specially prepared code calculated three remote sensing indices from images: Normalized Differential Vegetation Index, Green Normalized Differential Vegetation Index and Greenness Index.
 
 If you are using this project in your work, please cite the following paper:
 
